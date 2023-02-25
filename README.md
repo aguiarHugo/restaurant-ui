@@ -8,17 +8,13 @@ Para acessar o projeto [Clique Aqui!](https://restaurant-ui-react.netlify.app/)
 <p>
     <img alt="Imagem do Projeto versão web" src=".github/preview1.png" width="80%">
     <img alt="Imagem do Projeto versão web" src=".github/preview2.png" width="80%">
-     <img alt="Imagem do Projeto versão web" src=".github/preview3.png" width="80%">
+    <img alt="Imagem do Projeto versão web" src=".github/preview3.png" width="80%">
     <img alt="Imagem do Projeto versão web" src=".github/preview4.png" width="80%">
-     <img alt="Imagem do Projeto versão web" src=".github/preview5.png" width="80%">
-     <img alt="Imagem do Projeto versão web" src=".github/preview6.png" width="80%">
-      <img alt="Imagem do Projeto versão web" src=".github/preview7.png" width="80%">
-      <img alt="Imagem do Projeto versão web" src=".github/preview8.png" width="80%">
-      <img alt="Imagem do Projeto versão web" src=".github/preview9.png" width="80%">
-
-
-
-  
+    <img alt="Imagem do Projeto versão web" src=".github/preview5.png" width="80%">
+    <img alt="Imagem do Projeto versão web" src=".github/preview6.png" width="80%">
+    <img alt="Imagem do Projeto versão web" src=".github/preview7.png" width="80%">
+    <img alt="Imagem do Projeto versão web" src=".github/preview8.png" width="80%">
+    <img alt="Imagem do Projeto versão web" src=".github/preview9.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
