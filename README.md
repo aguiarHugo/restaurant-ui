@@ -3,7 +3,7 @@
 ## 💻 Projeto
 Projeto desenvolvido com foco em aprimorar e conhecer novas funcionalidades do React e CSS.
 
-Para acessar o projeto [Clique Aqui!](https://ui-gpt3.netlify.app/)
+Para acessar o projeto [Clique Aqui!](https://restaurant-ui-react.netlify.app/)
 
 <p>
     <img alt="Imagem do Projeto versão web" src=".github/preview1.png" width="80%">
